@@ -11,8 +11,10 @@ Eu não realizei nenhum tipo de teste, se você obter qualquer erro, por favor, 
 #### Description
 This tool was created for both up-and-coming beginner developers and even for the most experienced developer.
 If you're a beginner, you won't need to break your head trying to install any technology, just have a brief knowledge of the Linux operating system to call upon such technologies.
+If you're an experienced developer, you know that one of our greatest resources is our time, this py script will save you time
 #### [PT-BR]
 Essa ferramenta foi desenvolvida tanto para desenvolvedores iniciantes em ascenção, quanto para desenvolvedores mais experientes, se você é um iniciante, você não precisara quebrar sua cabeça tentando instalar nenhuma tecnologia, você só precisa ter um breve conhecimento no sistema operacional linux para chamar tais tecnologias.
+Se você é um desenvolvedor experiente, sabe que um dos nossos maiores recursos é o nosso tempo, esse script py fara com que você economize seu tempo
 
 ---
 
@@ -23,7 +25,7 @@ Essa ferramenta foi desenvolvida tanto para desenvolvedores iniciantes em ascen�
 - [OPTIONAL] install nodejs via nvm, open a new terminal and run 'nvm install node' | It might seem a little pointless, to be honest, I was considering removing the automatic installation of nodejs and npm, and guiding the user to install nodejs via NVM, but perhaps some beginner developers will use this script, so I decided to leave it. More advanced developers will certainly know what to do.
 - If you have installed rbenv, open terminal and run 'rbenv install -l' or 'rbenv install 3.1.2' to install ruby in your system.
 - START CODDING
-- 
+
 Note: The reason for these two final steps is that I WAS UNABLE to execute either the NVM command or the RBENV command via Python due to the terminal context, even after using the subprocess to execute in a new context, I continued to have errors.
 
 ### [PT-BR]
